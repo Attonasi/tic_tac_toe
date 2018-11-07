@@ -1,0 +1,6 @@
+tictactoe
+*.txt
+*.iml
+out/
+jansson-2.11/
+ttt-serverl
